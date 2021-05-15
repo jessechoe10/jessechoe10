@@ -1,16 +1,34 @@
-### Hi there 👋
+<a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jessechoe10&theme=algolia">
+</a>
 
-<!--
-**jessechoe10/jessechoe10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+Jesse Choe.
+</h1>
 
-Here are some ideas to get you started:
+<h2>
+	I am a...
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Competitive programmer
+- Full Stack Web Developer
+- Content Author at USACO Guide
+- Freshman / Rising Sophmore at TJHSST
+- Pronouns: he/him
+- Machine Learning Researcher
+- Freelancer
+
+<h2>
+	Check these out...
+</h2>
+
+- [USACO Guide](https://usaco.guide)
+- [USACO](http://usaco.org)
+- [CodeForces](https://codeforces.com)
+- [Coursera](https://www.coursera.org)
+- [Udemy](https://www.udemy.com/)
+
+Contact me at my [email](jessechoe10@gmail.com) for more information regarding the links above.
+
+On June 11th at 12 PM EST, a new [repository](https://github.com/jessechoe10/CP) will be made public which has detailed solutions to competitive programming problems from CodeForces, so make sure to check that out.
+
