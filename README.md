@@ -15,8 +15,8 @@ Jesse Choe.
 - Content Author at USACO Guide
 - Freshman / Rising Sophmore at TJHSST
 - Pronouns: he/him
-- Machine Learning Researcher
 - Freelancer
+- Cool Guy
 
 <h2>
 	Check these out...
