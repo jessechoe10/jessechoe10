@@ -10,9 +10,9 @@ Jesse Choe.
 	I am a...
 </h2>
 
-- Competitive programmer
-- Data Scientist / Machine Learning Engineer
-- Frontend Web Developer
+- Pupil on Codeforces
+- USACO Silver competitor
+- USACO Guide Content Author
 - Sophomore at TJHSST
 
 <h2>
