@@ -11,16 +11,6 @@ Jesse Choe.
 </h2>
 
 - [Specialist on Codeforces](https://codeforces.com/profile/YoRepi7)
-- USACO Silver competitor
-- USACO Guide Content Author
-- Sophomore at TJHSST
-
-<h2>
-	Check these out...
-</h2>
-
-- [USACO Guide](https://usaco.guide)
-- [USACO](http://usaco.org)
-- [CodeForces](https://codeforces.com)
-
-Contact me at my [email](jessechoe10@gmail.com) for more information regarding the links above.
+- [USACO Silver competitor](http://usaco.org)
+- [USACO Guide Content Author](https://joincpi.org)
+- [Sophomore at TJHSST](https://www.linkedin.com/in/jc10/)
