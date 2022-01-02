@@ -10,7 +10,7 @@ Jesse Choe.
 	I am a...
 </h2>
 
-- Pupil on Codeforces
+- [Specialist on Codeforces](https://codeforces.com/profile/YoRepi7)
 - USACO Silver competitor
 - USACO Guide Content Author
 - Sophomore at TJHSST
