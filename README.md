@@ -13,4 +13,4 @@ Jesse Choe.
 - [Specialist on Codeforces](https://codeforces.com/profile/YoRepi7)
 - [USACO Gold competitor](http://usaco.org)
 - [USACO Guide Content Author](https://joincpi.org)
-- [Sophomore at TJHSST](https://www.linkedin.com/in/jc10/)
+- [Rising Junior at TJHSST](https://www.linkedin.com/in/jc10/)
