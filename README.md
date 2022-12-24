@@ -10,7 +10,6 @@ Jesse Choe.
 	I am a...
 </h2>
 
-- [Specialist on Codeforces](https://codeforces.com/profile/YoRepi7)
-- [USACO Gold competitor](http://usaco.org)
+- [USACO Platinum Competitor](http://usaco.org)
 - [USACO Guide Content Author](https://joincpi.org)
 - [Junior at TJHSST](https://www.linkedin.com/in/jc10/)
