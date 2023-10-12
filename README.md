@@ -12,4 +12,4 @@ Jesse Choe.
 
 - [USACO Platinum Competitor](http://usaco.org)
 - [USACO Guide Content Author](https://joincpi.org)
-- [Junior at TJHSST](https://www.linkedin.com/in/jc10/)
+- [Senior at TJHSST](https://www.linkedin.com/in/jc10/)
